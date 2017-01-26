@@ -55,7 +55,7 @@ class CategoryCell: UICollectionViewCell {
     
     func setupViews() {
     
-    	backgroundColor = UIColor.red
+    	backgroundColor = UIColor.black
         
     }
     
