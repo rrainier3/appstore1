@@ -15,6 +15,7 @@
 		4F20267F1E3A4A610006208B /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F20267E1E3A4A610006208B /* CategoryCell.swift */; };
 		4F2026811E3A4B7B0006208B /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2026801E3A4B7B0006208B /* Models.swift */; };
 		4F2026831E3A4CC50006208B /* AppDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2026821E3A4CC50006208B /* AppDetailController.swift */; };
+		4F2026851E3ACCB70006208B /* ScreenshotsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2026841E3ACCB70006208B /* ScreenshotsCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4F20267E1E3A4A610006208B /* CategoryCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		4F2026801E3A4B7B0006208B /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		4F2026821E3A4CC50006208B /* AppDetailController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDetailController.swift; sourceTree = "<group>"; };
+		4F2026841E3ACCB70006208B /* ScreenshotsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScreenshotsCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				4F20266C1E394E4D0006208B /* AppDelegate.swift */,
 				4F20266E1E394E4D0006208B /* FeaturedAppsController.swift */,
+				4F2026841E3ACCB70006208B /* ScreenshotsCell.swift */,
 				4F2026821E3A4CC50006208B /* AppDetailController.swift */,
 				4F2026801E3A4B7B0006208B /* Models.swift */,
 				4F20267E1E3A4A610006208B /* CategoryCell.swift */,
@@ -151,6 +154,7 @@
 				4F20267F1E3A4A610006208B /* CategoryCell.swift in Sources */,
 				4F2026831E3A4CC50006208B /* AppDetailController.swift in Sources */,
 				4F2026811E3A4B7B0006208B /* Models.swift in Sources */,
+				4F2026851E3ACCB70006208B /* ScreenshotsCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
